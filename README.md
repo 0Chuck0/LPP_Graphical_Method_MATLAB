@@ -1,4 +1,4 @@
-# LPP_Graphical_Method_MATLAB
+# LPP Graphical Method MATLAB
 MATLAB Code for solving LPP using graphical method and how to plot it
 
 FOLLOW THE BELOW STEPS TO SOLVE ANY LPP HAVING TWO CONSTRAINTS
